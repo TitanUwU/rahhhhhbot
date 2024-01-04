@@ -1,4 +1,16 @@
 import os
+os.system("python-dotenv")
+os.system("discord.py")
+os.system("requests")
+os.system("praw")
+os.system("asyncio")
+os.system("aiohttp")
+os.system("datetime")
+os.system("random")
+os.system("jishaku")
+os.system("pysqlite3")
+
+
 import sqlite3
 from dotenv import load_dotenv
 import discord
